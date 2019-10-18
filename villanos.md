@@ -2,4 +2,3 @@
 
 * Joker.
 * Loki.
-* Capitán America.
